@@ -55,7 +55,7 @@ header nav ul li:hover {
 /* Hero Section */
 #hero {
   background-attachment: fixed;
-  background-image: url("https://images.app.goo.gl/uZUnPT2V2mspgbhT7");
+  background-image: url("images.app.goo.gl/uZUnPT2V2mspgbhT7");
   background-size: cover;
   width: 100%;
   height: 90vh;
@@ -67,8 +67,8 @@ header nav ul li:hover {
 
 #hero .btn {
   border-radius: 10px;
-  background: orange;
-  color: white;
+  background: #ff0000;
+  color: rgb(166, 0, 255);
   padding: 10px;
 }
 
